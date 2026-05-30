@@ -1,104 +1,103 @@
-<h1 align="center">Nicolás Vargas Lujerio</h1>
+<h1 align="center">Nicolas Vargas Lujerio</h1>
 
 <p align="center">
-  <em>Ingeniería Empresarial · International Business · Lima, Perú 🇵🇪</em>
+  Ingenieria Empresarial · International Business · Lima, Peru
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-vargas-lujerio/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-Disponible-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inglés-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubicacion-Lima%2C%20Peru-4A90D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ingles-B2-2C3E50?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 Sobre mí
+## Perfil profesional
 
-Estudiante de último año de Ingeniería Empresarial con doble grado en **International Business**, orientado a la intersección entre procesos de negocio, tecnología empresarial y análisis financiero.
+Estudiante de ultimo año de Ingenieria Empresarial con doble grado en International Business en una universidad peruana. Mi formacion integra la gestion de organizaciones, el analisis financiero y los sistemas de informacion empresarial, con orientacion directa hacia los sectores bancario y minero.
 
-Realizando **prácticas pre-profesionales en Dechini** — empresa peruana líder en dirección de proyectos de ingeniería y construcción — donde aplico conocimientos de gestión de proyectos, procesos operativos y análisis de información en entorno corporativo real.
+Actualmente realizo practicas pre-profesionales en Dechini DSE Ingenieria S.A.C., empresa con mas de 20 años de trayectoria en la direccion de proyectos de ingenieria y construccion a nivel nacional. En este entorno corporativo aplico herramientas de gestion de procesos, analisis de datos y coordinacion de equipos multidisciplinarios.
 
-Mi objetivo es convertirme en referente en **ERP (SAP)** y **transformación digital** en el sector bancario y minero peruano, combinando visión de negocio con dominio técnico de sistemas empresariales.
-
----
-
-## 🎯 Foco actual
-
-```
-📌 Aprendiendo        →  SAP FI/CO · Power BI · Fundamentos financieros
-📌 Especializándome   →  ERP · Banca · Minería · Transformación digital
-📌 Desarrollando      →  Comunicación ejecutiva · Análisis de procesos
-📌 Próximo objetivo   →  Certificación SAP FI (C_TS4FI)
-```
+Mi objetivo es especializarme en sistemas ERP, con enfasis en SAP, y en transformacion digital aplicada al sector financiero y minero. Busco desarrollar un perfil tecnico-empresarial que permita liderar proyectos de implementacion y mejora de sistemas en organizaciones de gran escala.
 
 ---
 
-## 🎓 Formación académica
+## Formacion academica
 
-**Ingeniería Empresarial** — Doble grado en International Business
-📍 Lima, Perú · En curso (último año)
+Ingenieria Empresarial — Doble grado en International Business
+Lima, Peru — En curso, ultimo año
 
-Énfasis en gestión de organizaciones, procesos de negocio, finanzas corporativas y entornos internacionales.
-
----
-
-## 💼 Experiencia
-
-### Practicante Pre-Profesional · **Dechini DSE Ingeniería S.A.C.**
-`Lima, Perú · Actual`
-
-Empresa peruana con más de 20 años en dirección de proyectos de ingeniería y construcción bajo metodología *Construction Management (CM)*, cobertura a nivel nacional.
-
-- Gestión y seguimiento de procesos operativos internos
-- Análisis de información para soporte en toma de decisiones
-- Coordinación con equipos multidisciplinarios en proyectos de gran escala
-- Uso de herramientas ofimáticas avanzadas en gestión diaria
+Enfasis en gestion estrategica de organizaciones, finanzas corporativas, procesos de negocio y contextos internacionales. Formacion orientada a la toma de decisiones basada en datos y al uso de tecnologia como palanca de eficiencia operativa.
 
 ---
 
-## 🛠️ Habilidades técnicas
+## Experiencia
 
-![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP_Básico-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+### Practicante Pre-Profesional — Dechini DSE Ingenieria S.A.C.
+Lima, Peru — Actual
 
-### Áreas de conocimiento
-- 📊 **Finanzas corporativas** — Estados financieros, análisis de rentabilidad, presupuestos
-- 🔄 **Gestión de procesos** — Mapeo, documentación y mejora de procesos de negocio
-- 🌍 **Negocios internacionales** — Comercio exterior, contexto económico global
-- 📐 **Gestión de proyectos** — Fundamentos de PM en entorno de construcción
-- 🤝 **Comunicación ejecutiva** — Presentaciones, stakeholders, coordinación de equipos
+Dechini es una organizacion peruana dedicada a la direccion de proyectos de ingenieria y construccion bajo la metodologia Construction Management, con presencia a nivel nacional en proyectos de edificaciones urbanas e industriales.
 
-**Idiomas:** Español (nativo) · Inglés B2
+Funciones principales:
+
+- Apoyo en la gestion y seguimiento de procesos operativos internos
+- Analisis de informacion y elaboracion de reportes para la toma de decisiones
+- Coordinacion con equipos tecnicos y administrativos en proyectos de gran envergadura
+- Uso de herramientas ofimáticas y de gestion en la operacion diaria
 
 ---
 
-## 🏦 Sectores de interés
+## Competencias tecnicas
 
-```
-🏦  Banca & Servicios financieros   →  BCP · Interbank · BBVA · Credicorp
-⛏️  Minería corporativa             →  Antamina · Southern Copper · Buenaventura
-💻  Consultoría tecnológica         →  Big 4 · ERP Partners · SAP Practice
-```
+### Herramientas y sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
+
+### Areas de conocimiento
+
+- Finanzas corporativas: estados financieros, analisis de rentabilidad y presupuesto
+- Gestion de procesos: mapeo, documentacion y mejora de procesos de negocio
+- Excel avanzado: tablas dinamicas, funciones financieras, modelado de datos y automatizacion basica
+- Uso practico de ERP: operacion en modulos de gestion, seguimiento de procesos y analisis de informacion en sistemas empresariales
+- Negocios internacionales: comercio exterior, contexto economico global y analisis de mercados
+- Gestion de proyectos: aplicacion de fundamentos PM en entorno de construccion e ingenieria
+- Comunicacion ejecutiva: presentaciones a stakeholders, elaboracion de informes y trabajo en equipo
+
+### Idiomas
+
+- Espanol: nativo
+- Ingles: nivel B2, intermedio-avanzado
 
 ---
 
-## 📚 Formación continua
+## Sectores de interes
 
-| Área | Plataforma | Estado |
+- Banca y servicios financieros: BCP, Interbank, BBVA, Credicorp y sus subsidiarias
+- Mineria corporativa: Antamina, Southern Copper, Cerro Verde, Buenaventura
+- Consultoria tecnologica: firmas Big 4 con practica SAP y transformacion digital
+
+---
+
+## Formacion en curso
+
+| Area | Plataforma | Estado |
 |------|-----------|--------|
-| SAP FI Fundamentos | SAP Learning Hub | 🔄 En progreso |
-| Power BI | Microsoft Learn | 🔄 En progreso |
-| Finanzas corporativas | Autoaprendizaje | 🔄 En progreso |
-| Inglés B2 → C1 | Práctica activa | 🔄 En progreso |
+| SAP FI — Finanzas en SAP | SAP Learning Hub | En progreso |
+| Power BI — Analisis y visualizacion | Microsoft Learn | En progreso |
+| Finanzas corporativas aplicadas | Autoaprendizaje estructurado | En progreso |
+| Ingles C1 | Practica activa | En progreso |
 
 ---
 
-## 📈 GitHub Stats
+## Estadisticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nvargasl&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
@@ -107,13 +106,7 @@ Empresa peruana con más de 20 años en dirección de proyectos de ingeniería y
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-vargas-lujerio/)
-- 📍 Lima, Perú
-
----
-
-<p align="center">
-  <sub><em>"El puente entre el negocio y la tecnología es donde se crea el mayor valor."</em></sub>
-</p>
+- LinkedIn: https://www.linkedin.com/in/nicolas-vargas-lujerio/
+- Ubicacion: Lima, Peru — San Isidro
