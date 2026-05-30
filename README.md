@@ -16,7 +16,7 @@
 
 ## 👋 Sobre mí
 
-Estudiante de último año de **Ingeniería Empresarial** con doble grado en **International Business**, orientado a la intersección entre procesos de negocio, tecnología empresarial y análisis financiero.
+Estudiante de último año de Ingeniería Empresarial con doble grado en **International Business**, orientado a la intersección entre procesos de negocio, tecnología empresarial y análisis financiero.
 
 Realizando **prácticas pre-profesionales en Dechini** — empresa peruana líder en dirección de proyectos de ingeniería y construcción — donde aplico conocimientos de gestión de proyectos, procesos operativos y análisis de información en entorno corporativo real.
 
