@@ -108,4 +108,4 @@ Funciones principales:
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/nicolas-vargas-lujerio/
-- Ubicacion: Lima, Peru — San Isidro
+- Ubicacion: Lima, Peru
