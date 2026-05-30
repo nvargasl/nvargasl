@@ -110,7 +110,7 @@ Empresa peruana con más de 20 años en dirección de proyectos de ingeniería y
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-vargas-lujerio/)
-- 📍 Lima, Perú · San Isidro
+- 📍 Lima, Perú
 
 ---
 
