@@ -68,7 +68,6 @@ Funciones principales:
 - Excel avanzado: tablas dinamicas, funciones financieras, modelado de datos y automatizacion basica
 - Uso practico de ERP: operacion en modulos de gestion, seguimiento de procesos y analisis de informacion en sistemas empresariales
 - Negocios internacionales: comercio exterior, contexto economico global y analisis de mercados
-- Gestion de proyectos: aplicacion de fundamentos PM en entorno de construccion e ingenieria
 - Comunicacion ejecutiva: presentaciones a stakeholders, elaboracion de informes y trabajo en equipo
 
 ### Idiomas
